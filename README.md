@@ -1,4 +1,4 @@
-x# Gesture OS
+# Gesture OS
 
 ## Overview
 
@@ -45,6 +45,16 @@ The primary aim of **Gesture OS** is to blend productivity with movement, turnin
 
 ## Getting Started
 
+### Unity Setup
+
+To create the application UI, we use Unity. Follow these steps to set up Unity for the project:
+
+1. **Download and Install Unity**: Visit the [Unity website](https://unity.com/) and download the latest version of Unity Hub. Use Unity Hub to install the latest LTS (Long Term Support) version of Unity.
+2. **Open the Project in Unity**: Clone the repository and open the project folder in Unity Hub. Click on "Add" and select the project folder.
+3. **Install Required Packages**: Open the project in Unity and go to "Window" > "Package Manager". Install any required packages listed in the project documentation.
+4. **Configure Build Settings**: Go to "File" > "Build Settings" and configure the build settings according to the target platform (Windows, macOS, or Linux).
+5. **Run the Project**: Click on the "Play" button in the Unity Editor to run the project and test the UI.
+
 ### Roadmap
 
 #### 1. Setup and Testing
@@ -72,7 +82,7 @@ The primary aim of **Gesture OS** is to blend productivity with movement, turnin
    - Set up Ultraleap Hyperion and test basic gesture interactions.
 
 2. **Phase 2: UI Prototype & Core Functionality**
-   - Develop core gesture functions and initial UI layout.
+   - Develop core gesture functions and initial UI layout using Unity.
 
 3. **Phase 3: Advanced Gestures & Cross-Platform Testing**
    - Implement advanced gestures and ensure compatibility across OS platforms.
