@@ -4,6 +4,8 @@
 
 **Gesture OS** is an experimental project that leverages movement and gestures to control basic OS functions on Windows, macOS, and Linux. Using the **Ultraleap Motion Controller 2** and **Ultraleap Hyperion software**, this project aims to transform repetitive computer tasks into interactive, movement-based actions. The goal is to create a minimalistic, gesture-driven interface as an alternative to traditional inputs, engaging users in physical activity while performing tasks like email management, app navigation, and media control.
 
+For more detailed information, please refer to the [Software Requirements Specification (SRS)](SRS.md).
+
 ---
 
 ## Project Aims
